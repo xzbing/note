@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "vuepress": "^1.9.10",
+    "vuepress-plugin-sakura": "^1.2.1",
+    "vuepress-theme-reco": "^1.6.17"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  }
+}
