@@ -1,5 +1,5 @@
 module.exports = {
-  title: "电子小木屋",
+  title: "小木屋",
   description: "好记性不如烂笔头",
   theme: "reco",
   base: "/note/",
