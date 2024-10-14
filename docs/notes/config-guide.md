@@ -5,7 +5,7 @@ categories:
   - 哲学
 tags:
   - 哲学
-sticky: 4
+sticky: 2
 ---
 
 ### 怀念过去是不是在时间的长河里刻舟求剑

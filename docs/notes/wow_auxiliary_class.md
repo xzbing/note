@@ -5,7 +5,7 @@ categories:
   - 游戏攻略
 tags:
   - 魔兽世界
-sticky: 2
+sticky: 5
 ---
 
 ## 炼金
@@ -13,13 +13,13 @@ sticky: 2
 ### 炼金石配方位置
 
 <div align="center">
-<img src="/images/wow_lj_mark1.jpg" width="500"/>
+<img src="/note/images/wow_lj_mark1.jpg" width="500"/>
 </div>
 
 ### 奇术转化路线
 
 <div align="center">
-<img src="/images/wow_lj_info1.jpg" width="500"/>
+<img src="/note/images/wow_lj_info1.jpg" width="500"/>
 </div>
 
 ### 冲级
@@ -35,6 +35,13 @@ sticky: 2
 | 95-100 | 严谨实验           |
 
 ## 铭文
+
+### 冲级
+
+| 等级   | 步骤         |
+| ------ | ------------ |
+| 01-25  | 研磨草药     |
+| 25-100 | 铭文阿加论述 |
 
 ## 裁缝
 

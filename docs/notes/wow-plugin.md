@@ -1,11 +1,11 @@
 ---
-title: 魔兽世界职业
-date: 2024-10-12
+title: 魔兽世界插件
+date: 2024-10-14
 categories:
   - 游戏攻略
 tags:
   - 魔兽世界
-sticky: 6
+sticky: 7
 ---
 
 ## 冰法
