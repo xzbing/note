@@ -1,5 +1,5 @@
 ---
-title: 愚者
+title: 弱智
 date: 2024-4-10
 categories:
   - 哲学
